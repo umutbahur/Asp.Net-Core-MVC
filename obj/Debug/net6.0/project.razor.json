@@ -18379,13 +18379,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Employee\\Index3.cshtml",
+      "TargetPath": "Views\\Employee\\Index3.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Employee\\Index.cshtml",
-      "TargetPath": "Views\\Employee\\Index.cshtml",
+      "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -18396,6 +18396,16 @@
     {
       "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Employee\\Index1.cshtml",
+      "TargetPath": "Views\\Employee\\Index1.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\HP\\Desktop\\MVC\\Basics\\Views\\Employee\\Index2.cshtml",
+      "TargetPath": "Views\\Employee\\Index2.cshtml",
       "FileKind": "mvc"
     },
     {
